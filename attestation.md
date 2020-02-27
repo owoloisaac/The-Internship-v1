@@ -3,7 +3,8 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 ___
 Name <br/>
 Track
-___
+Isaac Jesse<br>
+Front-End:HTML,CSS and javascript___
 Name <br/>
 Track
 ___
